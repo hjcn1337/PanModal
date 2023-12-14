@@ -1,3 +1,9 @@
+This fork contains some improvements of the original library, including:
+
+```
+- Fix for ios 17.1+ versions when displaying certain UIViewControllers where containerView has not yet been set
+```
+
 
 ### PanModal is an elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
 
